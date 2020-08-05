@@ -1,5 +1,3 @@
-
-const botConfig = require("CHANGE ME"); // Change this to the right file
 const discord = require("discord.js");
 const client = new discord.Client();
 
